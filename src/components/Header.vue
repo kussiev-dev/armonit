@@ -3,6 +3,7 @@ import { ref } from 'vue'
 import { RouterLink } from 'vue-router'
 
 const menuOpen = ref(false)
+const baseUrl = import.meta.env.BASE_URL
 
 function closeMenu() {
 	menuOpen.value = false
@@ -26,7 +27,7 @@ function scrollToSection(id: string) {
 		<div class="container">
 			<div class="header-inner flex justify-between items-center py-4 lg:py-10">
 				<RouterLink to="/" class="header-logo" @click="closeMenu">
-					<img src="/images/logo.svg" class="header-logo-icon" />
+					<img :src="`${baseUrl}images/logo.svg`" class="header-logo-icon" />
 				</RouterLink>
 
 				<nav class="header-nav">
