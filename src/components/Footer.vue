@@ -182,8 +182,8 @@ async function submit() {
 					<div
 						class="flex flex-col gap-2 items-center sm:items-start sm:flex-row sm:justify-between font-bold text-2xl sm:text-3xl lg:text-5xl"
 					>
-						<span>@kussiev_dev</span>
-						<span>+7 (922) 564-58-05</span>
+						<span>@marcus_gin</span>
+						<span>+7 (916) 254-31-98</span>
 					</div>
 				</div>
 			</div>
