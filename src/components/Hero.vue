@@ -19,7 +19,8 @@ const visible = useReveal(sectionRef)
 				<div data-r="up" style="--d: 0.12s">
 					<p class="hero-description text-base sm:text-xl font-bold mb-5 sm:mb-8 opacity-80">
 						Сайты, мобильные приложения, CRM, системы автоматизации и
-						стартап-решения под ключ
+						стартап-решения под ключ.<br class="hidden sm:block" />
+						Качество бигтеха — по цене фриланс.
 					</p>
 				</div>
 				<div class="buttons flex flex-col sm:flex-row justify-center items-center gap-4 sm:gap-6" data-r="up" style="--d: 0.24s">

@@ -81,8 +81,8 @@
 					<p class="opacity-80 leading-relaxed">
 						Вы вправе в любой момент отозвать согласие на обработку персональных
 						данных, а также запросить их удаление. Для этого свяжитесь с нами
-						через Telegram: <span class="font-semibold">@kussiev_dev</span> или
-						по телефону: <span class="font-semibold">+7 (922) 564-58-05</span>.
+						через Telegram: <a href="https://t.me/marcus_gin" target="_blank" rel="noopener noreferrer" class="font-semibold hover:opacity-80 transition-opacity">@marcus_gin</a> или
+						по телефону: <a href="tel:+79162543198" class="font-semibold hover:opacity-80 transition-opacity">+7 (916) 254-31-98</a>.
 					</p>
 				</section>
 

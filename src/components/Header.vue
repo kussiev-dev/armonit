@@ -23,7 +23,7 @@ function scrollToSection(id: string) {
 </script>
 
 <template>
-	<header class="header w-full fixed top-0 left-0 z-50 bg-[#020629]">
+	<header class="header w-full fixed top-0 left-0 z-50">
 		<div class="container">
 			<div class="header-inner flex justify-between items-center py-4 lg:py-10">
 				<RouterLink to="/" class="header-logo" @click="closeMenu">

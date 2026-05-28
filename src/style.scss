@@ -12,6 +12,8 @@ a {
 }
 
 .wrapper {
+	position: relative;
+	z-index: 1;
 	height: 100vh;
 	overflow-y: scroll;
 	scroll-snap-type: y mandatory;
@@ -21,6 +23,11 @@ a {
 	&::-webkit-scrollbar {
 		display: none; /* Chrome/Safari */
 	}
+}
+
+.privacy {
+	position: relative;
+	z-index: 1;
 }
 
 .container {

@@ -182,8 +182,8 @@ async function submit() {
 					<div
 						class="flex flex-col gap-2 items-center sm:items-start sm:flex-row sm:justify-between font-bold text-2xl sm:text-3xl lg:text-5xl"
 					>
-						<span>@marcus_gin</span>
-						<span>+7 (916) 254-31-98</span>
+						<a href="https://t.me/marcus_gin" target="_blank" rel="noopener noreferrer" class="hover:opacity-80 transition-opacity">@marcus_gin</a>
+						<a href="tel:+79162543198" class="hover:opacity-80 transition-opacity">+7 (916) 254-31-98</a>
 					</div>
 				</div>
 			</div>
